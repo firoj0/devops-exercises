@@ -1,7 +1,6 @@
 ## Fork 101
 
 Answer the questions given the following program (without running it):
-
 ```
 #include<stdio.h>
 #include <unistd.h> 
