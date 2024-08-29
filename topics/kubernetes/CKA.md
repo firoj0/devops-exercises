@@ -1,5 +1,4 @@
 # CKA (Certified Kubernetes Administrator)
-
 - [CKA (Certified Kubernetes Administrator)](#cka-certified-kubernetes-administrator)
   - [Setup](#setup)
   - [Pods](#pods)
